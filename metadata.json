@@ -1,0 +1,8 @@
+
+{
+  "name": "Explainable Phishing Guard",
+  "description": "An advanced AI-powered phishing detection system featuring BERT-like NLP classification, SHAP-based interpretability, and an intelligent cybersecurity chatbot.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
